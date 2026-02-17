@@ -13,6 +13,6 @@ public class Main {
         javaPhilosophy.setPublicationYear(2021);
 
         System.out.println(javaPhilosophy.getTitle() + " " + javaPhilosophy.getAuthor().getFirsName() + " " + javaPhilosophy.getAuthor().getFirsName() + " " + javaPhilosophy.getPublicationYear());
-
+        System.out.println("end");
     }
 }
